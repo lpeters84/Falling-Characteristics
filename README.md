@@ -1,7 +1,7 @@
 # Falling-Characteristics
 Using linear regression to determine trends in falling characteristics between men and women. 
-:------------: | :----------:
-![Fall_Characteristics_EI](https://github.com/user-attachments/assets/9e69c4c5-02cd-42c1-8730-87eb0960424f) | ![Fall_Characteristics_RT](https://github.com/user-attachments/assets/01f9fb73-2325-4bdf-88b1-24c47eea7c3f)
+
+<img src="https://github.com/user-attachments/assets/9e69c4c5-02cd-42c1-8730-87eb0960424f" width="450"> | <img src="https://github.com/user-attachments/assets/01f9fb73-2325-4bdf-88b1-24c47eea7c3f" width="450">
 
 # Data Description
 BalanceData.xlsx is a dataset containing 23 metrics collected from 40 subjects during a trip-and-fall scenario by 3D markers. 
